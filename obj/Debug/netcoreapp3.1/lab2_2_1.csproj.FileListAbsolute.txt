@@ -1,0 +1,13 @@
+D:\GitHub\lab2_2_1\lab2_2_1\bin\Debug\netcoreapp3.1\lab2_2_1.exe
+D:\GitHub\lab2_2_1\lab2_2_1\bin\Debug\netcoreapp3.1\lab2_2_1.deps.json
+D:\GitHub\lab2_2_1\lab2_2_1\bin\Debug\netcoreapp3.1\lab2_2_1.runtimeconfig.json
+D:\GitHub\lab2_2_1\lab2_2_1\bin\Debug\netcoreapp3.1\lab2_2_1.runtimeconfig.dev.json
+D:\GitHub\lab2_2_1\lab2_2_1\bin\Debug\netcoreapp3.1\lab2_2_1.dll
+D:\GitHub\lab2_2_1\lab2_2_1\bin\Debug\netcoreapp3.1\lab2_2_1.pdb
+D:\GitHub\lab2_2_1\lab2_2_1\obj\Debug\netcoreapp3.1\lab2_2_1.csprojAssemblyReference.cache
+D:\GitHub\lab2_2_1\lab2_2_1\obj\Debug\netcoreapp3.1\lab2_2_1.AssemblyInfoInputs.cache
+D:\GitHub\lab2_2_1\lab2_2_1\obj\Debug\netcoreapp3.1\lab2_2_1.AssemblyInfo.cs
+D:\GitHub\lab2_2_1\lab2_2_1\obj\Debug\netcoreapp3.1\lab2_2_1.csproj.CoreCompileInputs.cache
+D:\GitHub\lab2_2_1\lab2_2_1\obj\Debug\netcoreapp3.1\lab2_2_1.dll
+D:\GitHub\lab2_2_1\lab2_2_1\obj\Debug\netcoreapp3.1\lab2_2_1.pdb
+D:\GitHub\lab2_2_1\lab2_2_1\obj\Debug\netcoreapp3.1\lab2_2_1.genruntimeconfig.cache
